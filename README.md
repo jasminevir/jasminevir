@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=knorthy&label=Profile%20views&color=ff00ff&style=flat" alt="knorthy" />
+  <img src="https://komarev.com/ghpvc/?username=jasminevir&label=Profile%20views&color=ff00ff&style=flat" alt="jasminevir" />
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Jasmine+Vir.+💻;An+Electrical+Engineer" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Jasmine+Vir.+💻;An+Electrical+Engineering+Student" 
        alt="HI I'm Jasmine an Electrical Engineer">
 </p>
 </div>
